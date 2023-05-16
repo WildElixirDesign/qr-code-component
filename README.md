@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,8 +24,8 @@ My first attempt at creating a web page element following a specific design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/first-ever-web-component-YhhJJdlyEw)
+- Live Site URL: [QR Code Component on Github Pages](https://wildelixirdesign.github.io/qr-code-component/)
 
 ## My process
 - I created a copy of the image in Figma for practice and to get the correct sizing / spacing. 
